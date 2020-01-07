@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Wear Notification</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+
+    <!--    Firebase Stuff-->
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="fcm_message">FCM Message</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="title_activity_prompt_elevator">PromptElevatorActivity</string>
+
+</resources>
